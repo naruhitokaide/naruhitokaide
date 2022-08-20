@@ -20,6 +20,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodaKDominus&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KodaKDominus&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=KodaKDominus&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KodaKDominus&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <br><br>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KodaKDominus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</p>
+
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=KodaKDominus&column=7&theme=onedark"/>
 </p>
