@@ -21,7 +21,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KodaKDominus&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=KodaKDominus&column=7&theme=dark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=KodaKDominus&column=7&theme=onedark"/>
 </p>
 
 <p align="center">
