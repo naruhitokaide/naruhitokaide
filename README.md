@@ -25,7 +25,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=KodaKDominus&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KodaKDominus&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <br><br>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KodaKDominus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=KodaKDominus&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center" style="margin-bottom: 10px;">
