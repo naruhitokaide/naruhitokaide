@@ -1,7 +1,7 @@
 ### <h2 align="center">Web & Mobile & Blockchain Developer.</h2>
 
 <p align="center">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="480" />
 </p>
 
 <h4 align="center">Hi, I am a Full Stack Blockchain Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, Django, Flask, PHP, Solidity, Rust, Golang, Ethereum, Vue, Nuxt, Qusasar, React JS, React-Native, Next, Node, TypeScript, etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
