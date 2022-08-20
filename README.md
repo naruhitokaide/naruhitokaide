@@ -24,7 +24,7 @@
 </p>
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=KodaKDominus&column=7&theme=onedark&hide_border=true"/>
+    <img src="https://github-profile-trophy.vercel.app?username=KodaKDominus&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
 
 <p align="center">
