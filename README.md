@@ -15,12 +15,9 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=KodaKDominus&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
-<div align="cetner">
 ![Koda's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodaKDominus&theme=onedark&hide_border=true&show_icons=true)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodaKDominus&hide=PHP,html,c&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KodaKDominus&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-</div>
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=KodaKDominus&column=7&theme=onedark"/>
