@@ -15,7 +15,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=KodaKDominus&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
-![Koda Katsuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodaKDominus&theme=radical&hide_border=true&show_icons=true)
+![Koda's GitHub stats](https://github-readme-stats.vercel.app/api?username=KodaKDominus&theme=radical&hide_border=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KodaKDominus&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KodaKDominus&theme=radical&hide_border=true)](https://git.io/streak-stats)
