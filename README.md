@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/KodaKDominus"><img src="https://api.daily.dev/devcards/defe0d2b8d734313bd64bc68cf1ebff7.png?r=y9l" width="400" alt="Koda's Dev Card"/></a>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, Nice to meet you.
@@ -32,6 +31,8 @@
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=KodaKDominus&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
+
+<a href="https://app.daily.dev/KodaKDominus"><img src="https://api.daily.dev/devcards/5e1df35202fd4195816c6d55f1b74157.png?r=wrm" width="400" alt="Koda Katsuro's Dev Card"/></a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
