@@ -32,8 +32,6 @@
     <img src="https://github-profile-trophy.vercel.app?username=KodaKDominus&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
 
-<a href="https://app.daily.dev/KodaKDominus"><img src="https://api.daily.dev/devcards/5e1df35202fd4195816c6d55f1b74157.png?r=wrm" width="400" alt="Koda Katsuro's Dev Card"/></a>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
