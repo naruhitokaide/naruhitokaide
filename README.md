@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/KodaKDominus"><img src="https://api.daily.dev/devcards/defe0d2b8d734313bd64bc68cf1ebff7.png?r=y9l" width="400" alt="Koda's Dev Card"/></a>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, Nice to meet you.
