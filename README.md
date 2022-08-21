@@ -1,3 +1,4 @@
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 ### <h2 align="center">Web & Mobile & Blockchain Developer.</h2>
 
 <p align="center">
