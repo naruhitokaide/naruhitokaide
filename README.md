@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, Nice to meet you.
+  Hi, Nice to meet you. Thanks for visiting my profile.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">I am a Web & Mobile & Blockchain Developer.</h2>
