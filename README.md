@@ -3,7 +3,6 @@
   Hi, Nice to meet you.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h2 align="center"> Thanks for visiting my profile. </h2>
 <h2 align="center">I am a Web & Mobile & Blockchain Developer.</h2>
 
 <p align="center">
@@ -32,6 +31,8 @@
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app?username=KodaKDominus&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
