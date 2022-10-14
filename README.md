@@ -27,19 +27,19 @@
 
 <h3 align="center">I am available now and can start right now.</h3>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=KodaKDominus&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=KodaKDominus&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KodaKDominus&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=naruhitokaide&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=naruhitokaide&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
   <br><br>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=KodaKDominus&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app?username=KodaKDominus&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+    <img src="https://github-profile-trophy.vercel.app?username=naruhitokaide&column=7&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
