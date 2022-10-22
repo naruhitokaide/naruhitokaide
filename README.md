@@ -44,6 +44,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="25" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/redux-icon.svg" alt="Redux" height="25" />  
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" height="25" />
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" height="25" />
@@ -90,7 +91,7 @@
     <tr>
       <td valign="center" align="center" width="300px">
         <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">
-        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/blockchain/blockchain.png">
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png">
         <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
         <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
      </td>
