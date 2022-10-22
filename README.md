@@ -95,7 +95,7 @@
         <img src="https://img.shields.io/badge/Web3.js-green" /> <img src="https://img.shields.io/badge/Solidity-green" /> <img src="https://img.shields.io/badge/Ethers.js-green" /> <img src="https://img.shields.io/badge/Solana-green" /> <img src="https://img.shields.io/badge/Golang-green" /> <img src="https://img.shields.io/badge/Rust-green" /> <img src="https://img.shields.io/badge/Smart Contract-green" /> <img src="https://img.shields.io/badge/Bitcoin-green" />
       </td>
      <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-green" /> <img src="https://img.shields.io/badge/Adobe XD-green" /> <img src="https://img.shields.io/badge/Figma" /> <img src="https://img.shields.io/badge/Blender-green" /> <img src="https://img.shields.io/badge/WebGL-green" /> 
+       <img src="https://img.shields.io/badge/Photoshop-green" /> <img src="https://img.shields.io/badge/Adobe XD-green" /> <img src="https://img.shields.io/badge/Figma-green" /> <img src="https://img.shields.io/badge/Blender-green" /> <img src="https://img.shields.io/badge/WebGL-green" /> 
       </td>
     </tr>
   </table>
