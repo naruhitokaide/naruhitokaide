@@ -40,13 +40,16 @@
     <tr>
       <td valign="center" align="center" width="300px">
 #### ![](https://img.shields.io/badge/Html-green) ![](https://img.shields.io/badge/CSS-green) ![](https://img.shields.io/badge/JavaScript-green) ![](https://img.shields.io/badge/TypeScript-green) ![](https://img.shields.io/badge/React-green) ![](https://img.shields.io/badge/Vue-green) ![](https://img.shields.io/badge/Angular-green) ![](https://img.shields.io/badge/Bootstrap-green) ![](https://img.shields.io/badge/Tailwind-green) ![](https://img.shields.io/badge/Next-green) ![](https://img.shields.io/badge/Nuxt-green) ![](https://img.shields.io/badge/Shopify-green) ![](https://img.shields.io/badge/Chart.js-green)
-        
+##
       </td>
+      
       <td valign="center" align="center" width="300px">
 #### ![](https://img.shields.io/badge/Django-green) ![](https://img.shields.io/badge/Python-green) ![](https://img.shields.io/badge/Selenium-green) ![](https://img.shields.io/badge/BeautifulSoup-green) ![](https://img.shields.io/badge/Pandas-green) ![](https://img.shields.io/badge/Numpy-green) ![](https://img.shields.io/badge/Flask-green) ![](https://img.shields.io/badge/PHP-green) ![](https://img.shields.io/badge/Laravel-green) ![](https://img.shields.io/badge/Node.js-green) ![](https://img.shields.io/badge/Express-green) ![](https://img.shields.io/badge/Nest.js-green) ![](https://img.shields.io/badge/Ruby-green) ![](https://img.shields.io/badge/Rails-green) ![](https://img.shields.io/badge/CI-green)
+##
       </td>
       <td valign="center" align="center" width="300px">
  #### ![](https://img.shields.io/badge/AWS-green) ![](https://img.shields.io/badge/CI/CD-green) ![](https://img.shields.io/badge/Docker-green) ![](https://img.shields.io/badge/TDD-green) ![](https://img.shields.io/badge/Jira-green) ![](https://img.shields.io/badge/Tezos-green) ![](https://img.shields.io/badge/MySQL-green) ![](https://img.shields.io/badge/NoSQL-green) ![](https://img.shields.io/badge/MongoDB-green) ![](https://img.shields.io/badge/PostgreSQL-green) 
+ ##
       </td>
     </tr>
   </table>
@@ -59,9 +62,11 @@
     <tr>
       <td valign="center" align="center" width="300px">
 #### ![](https://img.shields.io/badge/Web3.js-green) ![](https://img.shields.io/badge/Solidity-green) ![](https://img.shields.io/badge/Ethers.js-green) ![](https://img.shields.io/badge/Solana-green) ![](https://img.shields.io/badge/Golang-green) ![](https://img.shields.io/badge/Rust-green) ![](https://img.shields.io/badge/Smart Contract-green) ![](https://img.shields.io/badge/Bitcoin-green)
+##
      </td>
      <td valign="center" align="center" width="300px">
 #### ![](https://img.shields.io/badge/Photoshop-green) ![](https://img.shields.io/badge/Adobe XD-green) ![](https://img.shields.io/badge/Figma) ![](https://img.shields.io/badge/Blender-green) ![](https://img.shields.io/badge/WebGL-green)
+##
       </td>
     </tr>
   </table>
