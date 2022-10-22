@@ -45,7 +45,7 @@
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="25" />  
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" height="25" />
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nuxtjs-original.svg" alt="Nuxt.js" height="25" /> 
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" height="25" />
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="25" />  
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="25" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
