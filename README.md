@@ -56,7 +56,9 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Django-green" /> 
         <img src="https://img.shields.io/badge/Python-green" /> 
-        <img src="https://img.shields.io/badge/Selenium-green" /> 
+        <img src="https://img.shields.io/badge/Selenium-green" />        
+        <img src="https://img.shields.io/badge/Ruby-green" /> 
+        <img src="https://img.shields.io/badge/Rails-green" /> 
         <img src="https://img.shields.io/badge/BeautifulSoup-green" /> 
         <img src="https://img.shields.io/badge/Pandas-green" /> 
         <img src="https://img.shields.io/badge/Numpy-green" /> 
@@ -66,8 +68,6 @@
         <img src="https://img.shields.io/badge/Node.js-green" /> 
         <img src="https://img.shields.io/badge/Express-green" /> 
         <img src="https://img.shields.io/badge/Nest.js-green" /> 
-        <img src="https://img.shields.io/badge/Ruby-green" /> 
-        <img src="https://img.shields.io/badge/Rails-green" /> 
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/AWS-green" /> 
