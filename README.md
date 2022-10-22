@@ -10,6 +10,9 @@
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/portfolio.gif" alt="Portfolio"/>
+</div> 
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
