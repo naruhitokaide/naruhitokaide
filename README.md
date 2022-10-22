@@ -40,6 +40,8 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="25" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" height="25" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/angularjs/angularjs-icon.svg" alt="Angular" height="25" />  
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="25" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" height="25" />  
