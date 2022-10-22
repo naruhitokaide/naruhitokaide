@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Html-green" /> 
+        <img src="https://img.shields.io/badge/HTML-green" /> 
         <img src="https://img.shields.io/badge/CSS-green" />
         <img src="https://img.shields.io/badge/JavaScript-green" /> 
         <img src="https://img.shields.io/badge/TypeScript-green" />
@@ -52,8 +52,7 @@
         <img src="https://img.shields.io/badge/Nuxt-green" /> 
         <img src="https://img.shields.io/badge/Shopify-green" /> 
         <img src="https://img.shields.io/badge/Chart.js-green" />
-      </td>
-      
+      </td>      
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Django-green" /> 
         <img src="https://img.shields.io/badge/Python-green" /> 
@@ -93,10 +92,11 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
- <img src="https://img.shields.io/badge/Web3.js-green" /> <img src="https://img.shields.io/badge/Solidity-green" /> <img src="https://img.shields.io/badge/Ethers.js-green" /> <img src="https://img.shields.io/badge/Solana-green" /> <img src="https://img.shields.io/badge/Golang-green" /> <img src="https://img.shields.io/badge/Rust-green" /> <img src="https://img.shields.io/badge/Smart Contract-green" /> <img src="https://img.shields.io/badge/Bitcoin-green" />
+        <img src="https://img.shields.io/badge/Web3.js-green" /> <img src="https://img.shields.io/badge/Solidity-green" /> <img src="https://img.shields.io/badge/Ethers.js-green" /> <img src="https://img.shields.io/badge/Solana-green" /> <img src="https://img.shields.io/badge/Golang-green" /> <img src="https://img.shields.io/badge/Rust-green" /> <img src="https://img.shields.io/badge/Smart Contract-green" /> <img src="https://img.shields.io/badge/Bitcoin-green" />
       </td>
      <td valign="center" align="center" width="300px">
- <img src="https://img.shields.io/badge/Photoshop-green" /> <img src="https://img.shields.io/badge/Adobe XD-green" /> <img src="https://img.shields.io/badge/Figma" /> <img src="https://img.shields.io/badge/Blender-green" /> <img src="https://img.shields.io/badge/WebGL-green" /> </td>
+       <img src="https://img.shields.io/badge/Photoshop-green" /> <img src="https://img.shields.io/badge/Adobe XD-green" /> <img src="https://img.shields.io/badge/Figma" /> <img src="https://img.shields.io/badge/Blender-green" /> <img src="https://img.shields.io/badge/WebGL-green" /> 
+      </td>
     </tr>
   </table>
 </div>
