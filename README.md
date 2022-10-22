@@ -33,7 +33,8 @@
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
-      <td valign="center" width="100px"><b>Web<b></td>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
       <td valign="center" width="100px"><b>Dev<b></td>
     </tr>
     <tr>
@@ -54,6 +55,8 @@
         <img style="margin: 10px" src="https://styled-components.com/logo.png" alt="styled-components" height="25" /> 
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="25" />
+      </td>
+      <td valign="center" align="center" width="300px">
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" height="25" />
         <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
         <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
