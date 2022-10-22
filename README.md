@@ -6,9 +6,10 @@
 
 <h2 align="center">I am a Full Stack & Blockchain Developer.</h2>
 
-<p align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" align="right"/>
-</p>
+<div align="center">
+  <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider1.png" alt="divider"/>
+</div> 
+
 
 <div align="center">
   <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider1.png" alt="divider"/>
