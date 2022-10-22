@@ -33,7 +33,7 @@
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
-      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Web<b></td>
       <td valign="center" width="100px"><b>Dev<b></td>
     </tr>
     <tr>
@@ -55,6 +55,17 @@
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="25" />
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" height="25" />
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="25" /> 
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="25" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="25" />  
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="25" />
       </td>
       <td valign="center" align="center" width="300px">
         <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"  />
@@ -70,22 +81,15 @@
   
  <table>
     <tr>
-      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Blockchain<b></td>
       <td valign="center" width="100px"><b>Design<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="25" /> 
-        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="25" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="25" />  
-        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="25" />
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png">
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web3/web3.png">
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
      </td>
      <td valign="center" align="center" width="300px">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
