@@ -7,12 +7,12 @@
 <h3 align="center">I am a Full Stack & Blockchain Developer.</h3>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/divider1.png" alt="divider"/>
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/divider1.png" alt="divider"/>
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
 
 <div align="center">
@@ -22,10 +22,10 @@
 <h3 align="center">I am available now and can start right now.</h3>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/divider2.png" alt="divider"/>
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -85,7 +85,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/divider2.png" alt="divider"/>
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 </div> 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
