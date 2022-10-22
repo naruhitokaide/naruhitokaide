@@ -136,6 +136,10 @@
   <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naruhitokadie&&style=flat-square" align="center" />
+</div> 
+
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <h2 align="center"> 私のプロフィールをご覧いただきありがとうございます </h2>
 <p align="center">
