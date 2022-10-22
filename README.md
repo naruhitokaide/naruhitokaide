@@ -44,7 +44,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="25" />  
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/redux-icon.svg" alt="Redux" height="25" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="25" />  
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" height="25" />
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" height="25" />
@@ -74,6 +74,7 @@
       <td valign="center" align="center" width="300px">
         <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"  />
         <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+        <img style="margin: 10px" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" height="25" />
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" height="25" />
         <img style="margin: 10px" src="https://github.com/altair-graphql/altair/raw/master/packages/altair-app/src/assets/img/altair_logo_128.png" alt="altair" height="25" />
