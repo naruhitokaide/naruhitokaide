@@ -11,14 +11,6 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/portfolio.png" alt="Portfolio"/>
-</div> 
-
-<div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
-</div> 
-
-<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
 
@@ -109,6 +101,14 @@
     </tr>
   </table>
 </div>
+   
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/portfolio.png" alt="Portfolio"/>
+</div> 
+
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+</div> 
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
