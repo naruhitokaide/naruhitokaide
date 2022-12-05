@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, Nice to meet you.
+  Hi, Nice to meet you. <br>
   I am a Full Stack & Blockchain Developer.
 </h1>
 
