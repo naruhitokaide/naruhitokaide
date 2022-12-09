@@ -20,19 +20,19 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/HTML-green" /> 
-        <img src="https://img.shields.io/badge/CSS-green" />
-        <img src="https://img.shields.io/badge/JavaScript-green" /> 
-        <img src="https://img.shields.io/badge/TypeScript-green" />
-        <img src="https://img.shields.io/badge/React-green" /> 
-        <img src="https://img.shields.io/badge/Vue-green" /> 
-        <img src="https://img.shields.io/badge/Angular-green" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-green" /> 
-        <img src="https://img.shields.io/badge/Tailwind-green" /> 
-        <img src="https://img.shields.io/badge/Next-green" /> 
-        <img src="https://img.shields.io/badge/Nuxt-green" /> 
-        <img src="https://img.shields.io/badge/Shopify-green" /> 
-        <img src="https://img.shields.io/badge/Chart.js-green" />
+        <img src="https://img.shields.io/badge/HTML-blue" /> 
+        <img src="https://img.shields.io/badge/CSS-blue" />
+        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
+        <img src="https://img.shields.io/badge/TypeScript-blue" />
+        <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/Vue-blue" /> 
+        <img src="https://img.shields.io/badge/Angular-blue" /> 
+        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
+        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
+        <img src="https://img.shields.io/badge/Next-blue" /> 
+        <img src="https://img.shields.io/badge/Nuxt-blue" /> 
+        <img src="https://img.shields.io/badge/Shopify-blue" /> 
+        <img src="https://img.shields.io/badge/Chart.js-blue" />
       </td>      
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Django-green" /> 
