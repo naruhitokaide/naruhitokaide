@@ -35,32 +35,32 @@
         <img src="https://img.shields.io/badge/Chart.js-blue" />
       </td>      
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Django-green" /> 
-        <img src="https://img.shields.io/badge/Python-green" /> 
-        <img src="https://img.shields.io/badge/Selenium-green" />        
-        <img src="https://img.shields.io/badge/Ruby-green" /> 
-        <img src="https://img.shields.io/badge/Rails-green" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-green" /> 
-        <img src="https://img.shields.io/badge/Pandas-green" /> 
-        <img src="https://img.shields.io/badge/Numpy-green" /> 
-        <img src="https://img.shields.io/badge/Flask-green" /> 
-        <img src="https://img.shields.io/badge/PHP-green" /> 
-        <img src="https://img.shields.io/badge/Laravel-green" /> 
-        <img src="https://img.shields.io/badge/Node.js-green" /> 
-        <img src="https://img.shields.io/badge/Express-green" /> 
-        <img src="https://img.shields.io/badge/Nest.js-green" /> 
+        <img src="https://img.shields.io/badge/Django-blue" /> 
+        <img src="https://img.shields.io/badge/Python-blue" /> 
+        <img src="https://img.shields.io/badge/Selenium-blue" />        
+        <img src="https://img.shields.io/badge/Ruby-blue" /> 
+        <img src="https://img.shields.io/badge/Rails-blue" /> 
+        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
+        <img src="https://img.shields.io/badge/Pandas-blue" /> 
+        <img src="https://img.shields.io/badge/Numpy-blue" /> 
+        <img src="https://img.shields.io/badge/Flask-blue" /> 
+        <img src="https://img.shields.io/badge/PHP-blue" /> 
+        <img src="https://img.shields.io/badge/Laravel-blue" /> 
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" /> 
+        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-green" /> 
-        <img src="https://img.shields.io/badge/CI/CD-green" /> 
-        <img src="https://img.shields.io/badge/Docker-green" /> 
-        <img src="https://img.shields.io/badge/TDD-green" /> 
-        <img src="https://img.shields.io/badge/Jira-green" /> 
-        <img src="https://img.shields.io/badge/Tezos-green" /> 
-        <img src="https://img.shields.io/badge/MySQL-green" /> 
-        <img src="https://img.shields.io/badge/NoSQL-green" /> 
-        <img src="https://img.shields.io/badge/MongoDB-green" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-green" /> 
+        <img src="https://img.shields.io/badge/AWS-blue" /> 
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
+        <img src="https://img.shields.io/badge/Docker-blue" /> 
+        <img src="https://img.shields.io/badge/TDD-blue" /> 
+        <img src="https://img.shields.io/badge/Jira-blue" /> 
+        <img src="https://img.shields.io/badge/Tezos-blue" /> 
+        <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
       </td>
     </tr>
   </table>
@@ -72,22 +72,22 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-green" /> 
-        <img src="https://img.shields.io/badge/Solidity-green" /> 
-        <img src="https://img.shields.io/badge/Ethers.js-green" /> 
-        <img src="https://img.shields.io/badge/Solana-green" /> 
-        <img src="https://img.shields.io/badge/Golang-green" /> 
-        <img src="https://img.shields.io/badge/Rust-green" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-green" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-green" />
+        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solidity-blue" /> 
+        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
+        <img src="https://img.shields.io/badge/Golang-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
+        <img src="https://img.shields.io/badge/Bitcoin-blue" />
       </td>
      <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-green" /> 
-       <img src="https://img.shields.io/badge/Adobe XD-green" /> 
-       <img src="https://img.shields.io/badge/Figma-green" /> 
-       <img src="https://img.shields.io/badge/Blender-green" /> 
-       <img src="https://img.shields.io/badge/WebGL-green" /> 
-       <img src="https://img.shields.io/badge/Three.js-green" /> 
+       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
+       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
+       <img src="https://img.shields.io/badge/Figma-blue" /> 
+       <img src="https://img.shields.io/badge/Blender-blue" /> 
+       <img src="https://img.shields.io/badge/WebGL-blue" /> 
+       <img src="https://img.shields.io/badge/Three.js-blue" /> 
       </td>
     </tr>
   </table>
