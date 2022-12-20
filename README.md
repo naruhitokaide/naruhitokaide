@@ -113,9 +113,6 @@
 
    
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=naruhitokaide&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=naruhitokaide&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
-  <br><br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
