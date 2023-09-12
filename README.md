@@ -4,7 +4,10 @@
 <h3 align="center">
   I am a Full Stack & Blockchain Developer.
 </h3>
-
+<!--freelancermap-Badge Black-->
+<a href="https://www.freelancermap.com/profile/naruhito-kaide" target="_blank" title="Profile of Naruhito Kaide on www.freelancermap.com">
+    <img loading="lazy" style="width:118px; height:24px" src="https://www.freelancermap.com/images/widgets/dashboard/fm-profile-badge-black.svg">
+</a>
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
 </div> 
