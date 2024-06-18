@@ -15,7 +15,7 @@
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
       <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Dev<b></td>
+      <td valign="center" width="100px"><b>CLoud<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -56,10 +56,8 @@
         <img src="https://img.shields.io/badge/TDD-blue" /> 
         <img src="https://img.shields.io/badge/Jira-blue" /> 
         <img src="https://img.shields.io/badge/Tezos-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
+        <img src="https://img.shields.io/badge/Microservices" /> 
+        <img src="https://img.shields.io/badge/Kubernetes" /> 
       </td>
     </tr>
   </table>
@@ -68,6 +66,7 @@
     <tr>
       <td valign="center" width="100px"><b>Blockchain<b></td>
       <td valign="center" width="100px"><b>Design<b></td>
+      <td valign="center" width="100px"><b>DataBase<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -87,6 +86,14 @@
        <img src="https://img.shields.io/badge/Blender-blue" /> 
        <img src="https://img.shields.io/badge/WebGL-blue" /> 
        <img src="https://img.shields.io/badge/Three.js-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MSSQL-blue" /> 
+        <img src="https://img.shields.io/badge/DynamicDB-blue" /> 
       </td>
     </tr>
   </table>
