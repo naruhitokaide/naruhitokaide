@@ -56,8 +56,8 @@
         <img src="https://img.shields.io/badge/TDD-blue" /> 
         <img src="https://img.shields.io/badge/Jira-blue" /> 
         <img src="https://img.shields.io/badge/Tezos-blue" /> 
-        <img src="https://img.shields.io/badge/Microservices" /> 
-        <img src="https://img.shields.io/badge/Kubernetes" /> 
+        <img src="https://img.shields.io/badge/Microservices-blue" /> 
+        <img src="https://img.shields.io/badge/Kubernetes-blue" /> 
       </td>
     </tr>
   </table>
