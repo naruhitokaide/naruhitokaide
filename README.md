@@ -76,6 +76,7 @@
         <img src="https://img.shields.io/badge/Solana-blue" /> 
         <img src="https://img.shields.io/badge/Golang-blue" /> 
         <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Bittensor-blue" />
         <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
         <img src="https://img.shields.io/badge/Bitcoin-blue" />
       </td>
